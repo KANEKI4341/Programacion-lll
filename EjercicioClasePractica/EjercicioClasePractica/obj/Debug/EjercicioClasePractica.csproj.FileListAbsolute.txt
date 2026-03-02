@@ -1,0 +1,7 @@
+C:\Users\jesus\Documents\GitHub\Programacion-lll\EjercicioClasePractica\EjercicioClasePractica\bin\Debug\EjercicioClasePractica.exe.config
+C:\Users\jesus\Documents\GitHub\Programacion-lll\EjercicioClasePractica\EjercicioClasePractica\bin\Debug\EjercicioClasePractica.exe
+C:\Users\jesus\Documents\GitHub\Programacion-lll\EjercicioClasePractica\EjercicioClasePractica\bin\Debug\EjercicioClasePractica.pdb
+C:\Users\jesus\Documents\GitHub\Programacion-lll\EjercicioClasePractica\EjercicioClasePractica\obj\Debug\EjercicioClasePractica.csproj.AssemblyReference.cache
+C:\Users\jesus\Documents\GitHub\Programacion-lll\EjercicioClasePractica\EjercicioClasePractica\obj\Debug\EjercicioClasePractica.csproj.CoreCompileInputs.cache
+C:\Users\jesus\Documents\GitHub\Programacion-lll\EjercicioClasePractica\EjercicioClasePractica\obj\Debug\EjercicioClasePractica.exe
+C:\Users\jesus\Documents\GitHub\Programacion-lll\EjercicioClasePractica\EjercicioClasePractica\obj\Debug\EjercicioClasePractica.pdb
