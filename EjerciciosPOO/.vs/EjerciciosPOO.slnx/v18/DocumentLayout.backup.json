@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{84BDEE4D-CC38-41D2-BD26-73A6390142F0}|EjerciciosPOO\\EjerciciosPOO.csproj|solutionrelative:ejerciciospoo\\ejerpoo\\ejer1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84BDEE4D-CC38-41D2-BD26-73A6390142F0}|EjerciciosPOO\\EjerciciosPOO.csproj|c:\\users\\jesus\\documents\\github\\programacion-lll\\ejerciciospoo\\ejerciciospoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84BDEE4D-CC38-41D2-BD26-73A6390142F0}|EjerciciosPOO\\EjerciciosPOO.csproj|C:\\Users\\jesus\\Documents\\GitHub\\Programacion-lll\\EjerciciosPOO\\ejerciciospoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84BDEE4D-CC38-41D2-BD26-73A6390142F0}|EjerciciosPOO\\EjerciciosPOO.csproj|solutionrelative:ejerciciospoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "EjerciciosPOO\\EjerPOO\\Ejer1.cs",
               "ToolTip": "C:\\Users\\jesus\\Documents\\GitHub\\Programacion-lll\\EjerciciosPOO\\EjerciciosPOO\\EjerPOO\\Ejer1.cs",
               "RelativeToolTip": "EjerciciosPOO\\EjerPOO\\Ejer1.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-27T11:49:50.532Z",
               "EditorCaption": ""
@@ -43,8 +43,7 @@
               "RelativeToolTip": "EjerciciosPOO\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-27T11:48:48.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-27T11:48:48.714Z"
             }
           ]
         }
