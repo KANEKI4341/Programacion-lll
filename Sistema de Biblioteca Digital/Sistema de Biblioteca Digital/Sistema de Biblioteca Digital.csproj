@@ -43,11 +43,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Enums\TipoCategoria.cs" />
+    <Compile Include="Interfaces\IPrestable.cs" />
+    <Compile Include="Modelos\AudioLibro.cs" />
+    <Compile Include="Modelos\Libro.cs" />
+    <Compile Include="Modelos\MaterialBiblioteca.cs" />
+    <Compile Include="Modelos\Revista.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

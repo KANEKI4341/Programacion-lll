@@ -1,0 +1,7 @@
+C:\Users\jesus\Documents\GitHub\Programacion-lll\Sistema de Biblioteca Digital\Sistema de Biblioteca Digital\bin\Debug\Sistema de Biblioteca Digital.exe.config
+C:\Users\jesus\Documents\GitHub\Programacion-lll\Sistema de Biblioteca Digital\Sistema de Biblioteca Digital\bin\Debug\Sistema de Biblioteca Digital.exe
+C:\Users\jesus\Documents\GitHub\Programacion-lll\Sistema de Biblioteca Digital\Sistema de Biblioteca Digital\bin\Debug\Sistema de Biblioteca Digital.pdb
+C:\Users\jesus\Documents\GitHub\Programacion-lll\Sistema de Biblioteca Digital\Sistema de Biblioteca Digital\obj\Debug\Sistema de Biblioteca Digital.csproj.AssemblyReference.cache
+C:\Users\jesus\Documents\GitHub\Programacion-lll\Sistema de Biblioteca Digital\Sistema de Biblioteca Digital\obj\Debug\Sistema de Biblioteca Digital.csproj.CoreCompileInputs.cache
+C:\Users\jesus\Documents\GitHub\Programacion-lll\Sistema de Biblioteca Digital\Sistema de Biblioteca Digital\obj\Debug\Sistema de Biblioteca Digital.exe
+C:\Users\jesus\Documents\GitHub\Programacion-lll\Sistema de Biblioteca Digital\Sistema de Biblioteca Digital\obj\Debug\Sistema de Biblioteca Digital.pdb
