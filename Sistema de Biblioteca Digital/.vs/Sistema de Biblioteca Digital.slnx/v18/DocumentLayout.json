@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\jesus\\Documents\\GitHub\\Programacion-lll\\Sistema de Biblioteca Digital\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5285A38B-1329-4F0B-AEC1-13E0EB5854E5}|Sistema de Biblioteca Digital\\Sistema de Biblioteca Digital.csproj|C:\\Users\\jesus\\Documents\\GitHub\\Programacion-lll\\Sistema de Biblioteca Digital\\sistema de biblioteca digital\\interfaces\\iprestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5285A38B-1329-4F0B-AEC1-13E0EB5854E5}|Sistema de Biblioteca Digital\\Sistema de Biblioteca Digital.csproj|solutionrelative:sistema de biblioteca digital\\interfaces\\iprestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5285A38B-1329-4F0B-AEC1-13E0EB5854E5}|Sistema de Biblioteca Digital\\Sistema de Biblioteca Digital.csproj|C:\\Users\\jesus\\Documents\\GitHub\\Programacion-lll\\Sistema de Biblioteca Digital\\sistema de biblioteca digital\\enums\\tipocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5285A38B-1329-4F0B-AEC1-13E0EB5854E5}|Sistema de Biblioteca Digital\\Sistema de Biblioteca Digital.csproj|solutionrelative:sistema de biblioteca digital\\enums\\tipocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5285A38B-1329-4F0B-AEC1-13E0EB5854E5}|Sistema de Biblioteca Digital\\Sistema de Biblioteca Digital.csproj|c:\\users\\jesus\\documents\\github\\programacion-lll\\sistema de biblioteca digital\\sistema de biblioteca digital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5285A38B-1329-4F0B-AEC1-13E0EB5854E5}|Sistema de Biblioteca Digital\\Sistema de Biblioteca Digital.csproj|solutionrelative:sistema de biblioteca digital\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5285A38B-1329-4F0B-AEC1-13E0EB5854E5}|Sistema de Biblioteca Digital\\Sistema de Biblioteca Digital.csproj|C:\\Users\\jesus\\Documents\\GitHub\\Programacion-lll\\Sistema de Biblioteca Digital\\sistema de biblioteca digital\\modelos\\audiolibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5285A38B-1329-4F0B-AEC1-13E0EB5854E5}|Sistema de Biblioteca Digital\\Sistema de Biblioteca Digital.csproj|solutionrelative:sistema de biblioteca digital\\modelos\\audiolibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5285A38B-1329-4F0B-AEC1-13E0EB5854E5}|Sistema de Biblioteca Digital\\Sistema de Biblioteca Digital.csproj|C:\\Users\\jesus\\Documents\\GitHub\\Programacion-lll\\Sistema de Biblioteca Digital\\sistema de biblioteca digital\\interfaces\\iprestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5285A38B-1329-4F0B-AEC1-13E0EB5854E5}|Sistema de Biblioteca Digital\\Sistema de Biblioteca Digital.csproj|solutionrelative:sistema de biblioteca digital\\interfaces\\iprestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5285A38B-1329-4F0B-AEC1-13E0EB5854E5}|Sistema de Biblioteca Digital\\Sistema de Biblioteca Digital.csproj|C:\\Users\\jesus\\Documents\\GitHub\\Programacion-lll\\Sistema de Biblioteca Digital\\sistema de biblioteca digital\\enums\\tipocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5285A38B-1329-4F0B-AEC1-13E0EB5854E5}|Sistema de Biblioteca Digital\\Sistema de Biblioteca Digital.csproj|solutionrelative:sistema de biblioteca digital\\enums\\tipocategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +38,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "AudioLibro.cs",
               "DocumentMoniker": "C:\\Users\\jesus\\Documents\\GitHub\\Programacion-lll\\Sistema de Biblioteca Digital\\Sistema de Biblioteca Digital\\Modelos\\AudioLibro.cs",
               "RelativeDocumentMoniker": "Sistema de Biblioteca Digital\\Modelos\\AudioLibro.cs",
@@ -50,12 +50,11 @@
               "RelativeToolTip": "Sistema de Biblioteca Digital\\Modelos\\AudioLibro.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T21:16:52.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-08T21:16:52.936Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Revista.cs",
               "DocumentMoniker": "C:\\Users\\jesus\\Documents\\GitHub\\Programacion-lll\\Sistema de Biblioteca Digital\\Sistema de Biblioteca Digital\\Modelos\\Revista.cs",
               "RelativeDocumentMoniker": "Sistema de Biblioteca Digital\\Modelos\\Revista.cs",
@@ -63,12 +62,11 @@
               "RelativeToolTip": "Sistema de Biblioteca Digital\\Modelos\\Revista.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T21:16:36.02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-08T21:16:36.02Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Libro.cs",
               "DocumentMoniker": "C:\\Users\\jesus\\Documents\\GitHub\\Programacion-lll\\Sistema de Biblioteca Digital\\Sistema de Biblioteca Digital\\Modelos\\Libro.cs",
               "RelativeDocumentMoniker": "Sistema de Biblioteca Digital\\Modelos\\Libro.cs",
@@ -76,12 +74,11 @@
               "RelativeToolTip": "Sistema de Biblioteca Digital\\Modelos\\Libro.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T21:16:17.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-08T21:16:17.677Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MaterialBiblioteca.cs",
               "DocumentMoniker": "C:\\Users\\jesus\\Documents\\GitHub\\Programacion-lll\\Sistema de Biblioteca Digital\\Sistema de Biblioteca Digital\\Modelos\\MaterialBiblioteca.cs",
               "RelativeDocumentMoniker": "Sistema de Biblioteca Digital\\Modelos\\MaterialBiblioteca.cs",
@@ -89,12 +86,11 @@
               "RelativeToolTip": "Sistema de Biblioteca Digital\\Modelos\\MaterialBiblioteca.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-08T21:16:00.114Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-08T21:16:00.114Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "IPrestable.cs",
               "DocumentMoniker": "C:\\Users\\jesus\\Documents\\GitHub\\Programacion-lll\\Sistema de Biblioteca Digital\\Sistema de Biblioteca Digital\\Interfaces\\IPrestable.cs",
               "RelativeDocumentMoniker": "Sistema de Biblioteca Digital\\Interfaces\\IPrestable.cs",
@@ -107,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "TipoCategoria.cs",
               "DocumentMoniker": "C:\\Users\\jesus\\Documents\\GitHub\\Programacion-lll\\Sistema de Biblioteca Digital\\Sistema de Biblioteca Digital\\Enums\\TipoCategoria.cs",
               "RelativeDocumentMoniker": "Sistema de Biblioteca Digital\\Enums\\TipoCategoria.cs",
@@ -120,13 +116,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\jesus\\Documents\\GitHub\\Programacion-lll\\Sistema de Biblioteca Digital\\Sistema de Biblioteca Digital\\Program.cs",
               "RelativeDocumentMoniker": "Sistema de Biblioteca Digital\\Program.cs",
               "ToolTip": "C:\\Users\\jesus\\Documents\\GitHub\\Programacion-lll\\Sistema de Biblioteca Digital\\Sistema de Biblioteca Digital\\Program.cs",
               "RelativeToolTip": "Sistema de Biblioteca Digital\\Program.cs",
-              "ViewState": "AgIAAKMAAAAAAAAAAAAQwA8BAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8BAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-06T12:13:10.283Z",
               "EditorCaption": ""
