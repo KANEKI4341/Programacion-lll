@@ -1,4 +1,22 @@
-﻿using Sistema_de_Concesionario_de_Vehículos.Enums;
+﻿//EJERCICIO 2: Sistema de Concesionario de Vehículos
+//📖 Descripción del Problema
+//Desarrollar un sistema para un concesionario que vende Autos, Motocicletas y Camiones. Cada vehículo tiene características comunes pero precios y comisiones diferentes.
+
+//🏗️ Estructura de Carpetas Requerida
+//ConcesionarioVehiculos\
+//├── Enums\
+//│   ├── TipoCombustible.cs      ← Gasolina, Diesel, Electrico, Hibrido
+//│   └── EstadoVehiculo.cs       ← Nuevo, Usado, Seminuevo
+//├── Interfaces\
+//│   └── IVendible.cs            ← ContratoVenta
+//├── Modelos\
+//│   ├── Vehiculo.cs             ← Clase abstracta base
+//│   ├── Auto.cs                 ← Hereda de Vehiculo
+//│   ├── Motocicleta.cs          ← Hereda de Vehiculo
+//│   └── Camion.cs               ← Hereda de Vehiculo
+//└── Program.cs
+
+using Sistema_de_Concesionario_de_Vehículos.Enums;
 using Sistema_de_Concesionario_de_Vehículos.Interfaces;
 using Sistema_de_Concesionario_de_Vehículos.Modelos;
 using System;
