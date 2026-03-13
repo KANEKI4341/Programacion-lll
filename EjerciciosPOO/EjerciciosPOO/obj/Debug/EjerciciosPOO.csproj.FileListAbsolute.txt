@@ -1,0 +1,2 @@
+C:\Users\deivy\Documents\GitHub\Programacion-lll\EjerciciosPOO\EjerciciosPOO\obj\Debug\EjerciciosPOO.csproj.AssemblyReference.cache
+C:\Users\deivy\Documents\GitHub\Programacion-lll\EjerciciosPOO\EjerciciosPOO\obj\Debug\EjerciciosPOO.csproj.CoreCompileInputs.cache
