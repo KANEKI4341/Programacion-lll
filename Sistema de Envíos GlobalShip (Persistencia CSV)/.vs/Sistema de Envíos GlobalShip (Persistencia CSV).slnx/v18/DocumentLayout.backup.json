@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\deivy\\Documents\\GitHub\\Programacion-lll\\Sistema de Env\u00EDos GlobalShip (Persistencia CSV)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E439150-52EB-436B-ADF5-BEC40645EE4E}|Sistema de Env\u00EDos GlobalShip (Persistencia CSV)\\Sistema de Env\u00EDos GlobalShip (Persistencia CSV).csproj|c:\\users\\deivy\\documents\\github\\programacion-lll\\sistema de env\u00EDos globalship (persistencia csv)\\sistema de env\u00EDos globalship (persistencia csv)\\modelo\\paquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E439150-52EB-436B-ADF5-BEC40645EE4E}|Sistema de Env\u00EDos GlobalShip (Persistencia CSV)\\Sistema de Env\u00EDos GlobalShip (Persistencia CSV).csproj|solutionrelative:sistema de env\u00EDos globalship (persistencia csv)\\modelo\\paquete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E439150-52EB-436B-ADF5-BEC40645EE4E}|Sistema de Env\u00EDos GlobalShip (Persistencia CSV)\\Sistema de Env\u00EDos GlobalShip (Persistencia CSV).csproj|c:\\users\\deivy\\documents\\github\\programacion-lll\\sistema de env\u00EDos globalship (persistencia csv)\\sistema de env\u00EDos globalship (persistencia csv)\\enum\\tipoenvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E439150-52EB-436B-ADF5-BEC40645EE4E}|Sistema de Env\u00EDos GlobalShip (Persistencia CSV)\\Sistema de Env\u00EDos GlobalShip (Persistencia CSV).csproj|solutionrelative:sistema de env\u00EDos globalship (persistencia csv)\\enum\\tipoenvio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E439150-52EB-436B-ADF5-BEC40645EE4E}|Sistema de Env\u00EDos GlobalShip (Persistencia CSV)\\Sistema de Env\u00EDos GlobalShip (Persistencia CSV).csproj|c:\\users\\deivy\\documents\\github\\programacion-lll\\sistema de env\u00EDos globalship (persistencia csv)\\sistema de env\u00EDos globalship (persistencia csv)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E439150-52EB-436B-ADF5-BEC40645EE4E}|Sistema de Env\u00EDos GlobalShip (Persistencia CSV)\\Sistema de Env\u00EDos GlobalShip (Persistencia CSV).csproj|solutionrelative:sistema de env\u00EDos globalship (persistencia csv)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Paquete.cs",
+              "DocumentMoniker": "C:\\Users\\deivy\\Documents\\GitHub\\Programacion-lll\\Sistema de Env\u00EDos GlobalShip (Persistencia CSV)\\Sistema de Env\u00EDos GlobalShip (Persistencia CSV)\\Modelo\\Paquete.cs",
+              "RelativeDocumentMoniker": "Sistema de Env\u00EDos GlobalShip (Persistencia CSV)\\Modelo\\Paquete.cs",
+              "ToolTip": "C:\\Users\\deivy\\Documents\\GitHub\\Programacion-lll\\Sistema de Env\u00EDos GlobalShip (Persistencia CSV)\\Sistema de Env\u00EDos GlobalShip (Persistencia CSV)\\Modelo\\Paquete.cs",
+              "RelativeToolTip": "Sistema de Env\u00EDos GlobalShip (Persistencia CSV)\\Modelo\\Paquete.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:36:42.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TipoEnvio.cs",
+              "DocumentMoniker": "C:\\Users\\deivy\\Documents\\GitHub\\Programacion-lll\\Sistema de Env\u00EDos GlobalShip (Persistencia CSV)\\Sistema de Env\u00EDos GlobalShip (Persistencia CSV)\\Enum\\TipoEnvio.cs",
+              "RelativeDocumentMoniker": "Sistema de Env\u00EDos GlobalShip (Persistencia CSV)\\Enum\\TipoEnvio.cs",
+              "ToolTip": "C:\\Users\\deivy\\Documents\\GitHub\\Programacion-lll\\Sistema de Env\u00EDos GlobalShip (Persistencia CSV)\\Sistema de Env\u00EDos GlobalShip (Persistencia CSV)\\Enum\\TipoEnvio.cs",
+              "RelativeToolTip": "Sistema de Env\u00EDos GlobalShip (Persistencia CSV)\\Enum\\TipoEnvio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:33:19.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\deivy\\Documents\\GitHub\\Programacion-lll\\Sistema de Env\u00EDos GlobalShip (Persistencia CSV)\\Sistema de Env\u00EDos GlobalShip (Persistencia CSV)\\Program.cs",
+              "RelativeDocumentMoniker": "Sistema de Env\u00EDos GlobalShip (Persistencia CSV)\\Program.cs",
+              "ToolTip": "C:\\Users\\deivy\\Documents\\GitHub\\Programacion-lll\\Sistema de Env\u00EDos GlobalShip (Persistencia CSV)\\Sistema de Env\u00EDos GlobalShip (Persistencia CSV)\\Program.cs",
+              "RelativeToolTip": "Sistema de Env\u00EDos GlobalShip (Persistencia CSV)\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAGAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:30:00.876Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

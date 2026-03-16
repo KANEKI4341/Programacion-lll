@@ -1,0 +1,7 @@
+C:\Users\deivy\Documents\GitHub\Programacion-lll\Sistema de Envíos GlobalShip (Persistencia CSV)\Sistema de Envíos GlobalShip (Persistencia CSV)\bin\Debug\Sistema de Envíos GlobalShip (Persistencia CSV).exe.config
+C:\Users\deivy\Documents\GitHub\Programacion-lll\Sistema de Envíos GlobalShip (Persistencia CSV)\Sistema de Envíos GlobalShip (Persistencia CSV)\bin\Debug\Sistema de Envíos GlobalShip (Persistencia CSV).exe
+C:\Users\deivy\Documents\GitHub\Programacion-lll\Sistema de Envíos GlobalShip (Persistencia CSV)\Sistema de Envíos GlobalShip (Persistencia CSV)\bin\Debug\Sistema de Envíos GlobalShip (Persistencia CSV).pdb
+C:\Users\deivy\Documents\GitHub\Programacion-lll\Sistema de Envíos GlobalShip (Persistencia CSV)\Sistema de Envíos GlobalShip (Persistencia CSV)\obj\Debug\Sistema de Envíos GlobalShip (Persistencia CSV).csproj.AssemblyReference.cache
+C:\Users\deivy\Documents\GitHub\Programacion-lll\Sistema de Envíos GlobalShip (Persistencia CSV)\Sistema de Envíos GlobalShip (Persistencia CSV)\obj\Debug\Sistema de Envíos GlobalShip (Persistencia CSV).csproj.CoreCompileInputs.cache
+C:\Users\deivy\Documents\GitHub\Programacion-lll\Sistema de Envíos GlobalShip (Persistencia CSV)\Sistema de Envíos GlobalShip (Persistencia CSV)\obj\Debug\Sistema de Envíos GlobalShip (Persistencia CSV).exe
+C:\Users\deivy\Documents\GitHub\Programacion-lll\Sistema de Envíos GlobalShip (Persistencia CSV)\Sistema de Envíos GlobalShip (Persistencia CSV)\obj\Debug\Sistema de Envíos GlobalShip (Persistencia CSV).pdb
