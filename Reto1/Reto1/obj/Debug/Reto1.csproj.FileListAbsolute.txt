@@ -1,0 +1,7 @@
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\Reto1\Reto1\bin\Debug\Reto1.exe.config
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\Reto1\Reto1\bin\Debug\Reto1.exe
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\Reto1\Reto1\bin\Debug\Reto1.pdb
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\Reto1\Reto1\obj\Debug\Reto1.csproj.AssemblyReference.cache
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\Reto1\Reto1\obj\Debug\Reto1.csproj.CoreCompileInputs.cache
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\Reto1\Reto1\obj\Debug\Reto1.exe
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\Reto1\Reto1\obj\Debug\Reto1.pdb
