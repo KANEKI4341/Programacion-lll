@@ -1,0 +1,7 @@
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\Diario Personal con Bitácora\Diario Personal con Bitácora\bin\Debug\Diario Personal con Bitácora.exe.config
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\Diario Personal con Bitácora\Diario Personal con Bitácora\bin\Debug\Diario Personal con Bitácora.exe
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\Diario Personal con Bitácora\Diario Personal con Bitácora\bin\Debug\Diario Personal con Bitácora.pdb
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\Diario Personal con Bitácora\Diario Personal con Bitácora\obj\Debug\Diario Personal con Bitácora.csproj.AssemblyReference.cache
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\Diario Personal con Bitácora\Diario Personal con Bitácora\obj\Debug\Diario Personal con Bitácora.csproj.CoreCompileInputs.cache
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\Diario Personal con Bitácora\Diario Personal con Bitácora\obj\Debug\Diario Personal con Bitácora.exe
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\Diario Personal con Bitácora\Diario Personal con Bitácora\obj\Debug\Diario Personal con Bitácora.pdb
