@@ -1,0 +1,7 @@
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\Gestión de Parqueadero ParkingPro\Gestión de Parqueadero ParkingPro\bin\Debug\Gestión de Parqueadero ParkingPro.exe.config
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\Gestión de Parqueadero ParkingPro\Gestión de Parqueadero ParkingPro\bin\Debug\Gestión de Parqueadero ParkingPro.exe
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\Gestión de Parqueadero ParkingPro\Gestión de Parqueadero ParkingPro\bin\Debug\Gestión de Parqueadero ParkingPro.pdb
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\Gestión de Parqueadero ParkingPro\Gestión de Parqueadero ParkingPro\obj\Debug\Gestión de Parqueadero ParkingPro.csproj.AssemblyReference.cache
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\Gestión de Parqueadero ParkingPro\Gestión de Parqueadero ParkingPro\obj\Debug\Gestión de Parqueadero ParkingPro.csproj.CoreCompileInputs.cache
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\Gestión de Parqueadero ParkingPro\Gestión de Parqueadero ParkingPro\obj\Debug\Gestión de Parqueadero ParkingPro.exe
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\Gestión de Parqueadero ParkingPro\Gestión de Parqueadero ParkingPro\obj\Debug\Gestión de Parqueadero ParkingPro.pdb

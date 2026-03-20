@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\Gesti\u00F3n de Parqueadero ParkingPro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99B77FF8-0040-4CA7-A1C2-3E74CFFCBC1E}|Gesti\u00F3n de Parqueadero ParkingPro\\Gesti\u00F3n de Parqueadero ParkingPro.csproj|c:\\users\\deivy\\documents\\github\\programacion-lll\\gesti\u00F3n de parqueadero parkingpro\\gesti\u00F3n de parqueadero parkingpro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B77FF8-0040-4CA7-A1C2-3E74CFFCBC1E}|Gesti\u00F3n de Parqueadero ParkingPro\\Gesti\u00F3n de Parqueadero ParkingPro.csproj|solutionrelative:gesti\u00F3n de parqueadero parkingpro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B77FF8-0040-4CA7-A1C2-3E74CFFCBC1E}|Gesti\u00F3n de Parqueadero ParkingPro\\Gesti\u00F3n de Parqueadero ParkingPro.csproj|c:\\users\\deivy\\documents\\github\\programacion-lll\\gesti\u00F3n de parqueadero parkingpro\\gesti\u00F3n de parqueadero parkingpro\\modelos\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B77FF8-0040-4CA7-A1C2-3E74CFFCBC1E}|Gesti\u00F3n de Parqueadero ParkingPro\\Gesti\u00F3n de Parqueadero ParkingPro.csproj|solutionrelative:gesti\u00F3n de parqueadero parkingpro\\modelos\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B77FF8-0040-4CA7-A1C2-3E74CFFCBC1E}|Gesti\u00F3n de Parqueadero ParkingPro\\Gesti\u00F3n de Parqueadero ParkingPro.csproj|c:\\users\\deivy\\documents\\github\\programacion-lll\\gesti\u00F3n de parqueadero parkingpro\\gesti\u00F3n de parqueadero parkingpro\\modelos\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B77FF8-0040-4CA7-A1C2-3E74CFFCBC1E}|Gesti\u00F3n de Parqueadero ParkingPro\\Gesti\u00F3n de Parqueadero ParkingPro.csproj|solutionrelative:gesti\u00F3n de parqueadero parkingpro\\modelos\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B77FF8-0040-4CA7-A1C2-3E74CFFCBC1E}|Gesti\u00F3n de Parqueadero ParkingPro\\Gesti\u00F3n de Parqueadero ParkingPro.csproj|c:\\users\\deivy\\documents\\github\\programacion-lll\\gesti\u00F3n de parqueadero parkingpro\\gesti\u00F3n de parqueadero parkingpro\\modelos\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B77FF8-0040-4CA7-A1C2-3E74CFFCBC1E}|Gesti\u00F3n de Parqueadero ParkingPro\\Gesti\u00F3n de Parqueadero ParkingPro.csproj|solutionrelative:gesti\u00F3n de parqueadero parkingpro\\modelos\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B77FF8-0040-4CA7-A1C2-3E74CFFCBC1E}|Gesti\u00F3n de Parqueadero ParkingPro\\Gesti\u00F3n de Parqueadero ParkingPro.csproj|c:\\users\\deivy\\documents\\github\\programacion-lll\\gesti\u00F3n de parqueadero parkingpro\\gesti\u00F3n de parqueadero parkingpro\\interfaces\\icobrable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B77FF8-0040-4CA7-A1C2-3E74CFFCBC1E}|Gesti\u00F3n de Parqueadero ParkingPro\\Gesti\u00F3n de Parqueadero ParkingPro.csproj|solutionrelative:gesti\u00F3n de parqueadero parkingpro\\interfaces\\icobrable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\Gesti\u00F3n de Parqueadero ParkingPro\\Gesti\u00F3n de Parqueadero ParkingPro\\Modelos\\Moto.cs",
+              "RelativeDocumentMoniker": "Gesti\u00F3n de Parqueadero ParkingPro\\Modelos\\Moto.cs",
+              "ToolTip": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\Gesti\u00F3n de Parqueadero ParkingPro\\Gesti\u00F3n de Parqueadero ParkingPro\\Modelos\\Moto.cs",
+              "RelativeToolTip": "Gesti\u00F3n de Parqueadero ParkingPro\\Modelos\\Moto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T02:33:27.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\Gesti\u00F3n de Parqueadero ParkingPro\\Gesti\u00F3n de Parqueadero ParkingPro\\Modelos\\Carro.cs",
+              "RelativeDocumentMoniker": "Gesti\u00F3n de Parqueadero ParkingPro\\Modelos\\Carro.cs",
+              "ToolTip": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\Gesti\u00F3n de Parqueadero ParkingPro\\Gesti\u00F3n de Parqueadero ParkingPro\\Modelos\\Carro.cs",
+              "RelativeToolTip": "Gesti\u00F3n de Parqueadero ParkingPro\\Modelos\\Carro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T02:33:14.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\Gesti\u00F3n de Parqueadero ParkingPro\\Gesti\u00F3n de Parqueadero ParkingPro\\Modelos\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "Gesti\u00F3n de Parqueadero ParkingPro\\Modelos\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\Gesti\u00F3n de Parqueadero ParkingPro\\Gesti\u00F3n de Parqueadero ParkingPro\\Modelos\\Vehiculo.cs",
+              "RelativeToolTip": "Gesti\u00F3n de Parqueadero ParkingPro\\Modelos\\Vehiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T02:32:40.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICobrable.cs",
+              "DocumentMoniker": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\Gesti\u00F3n de Parqueadero ParkingPro\\Gesti\u00F3n de Parqueadero ParkingPro\\Interfaces\\ICobrable.cs",
+              "RelativeDocumentMoniker": "Gesti\u00F3n de Parqueadero ParkingPro\\Interfaces\\ICobrable.cs",
+              "ToolTip": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\Gesti\u00F3n de Parqueadero ParkingPro\\Gesti\u00F3n de Parqueadero ParkingPro\\Interfaces\\ICobrable.cs",
+              "RelativeToolTip": "Gesti\u00F3n de Parqueadero ParkingPro\\Interfaces\\ICobrable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T02:30:05.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\Gesti\u00F3n de Parqueadero ParkingPro\\Gesti\u00F3n de Parqueadero ParkingPro\\Program.cs",
+              "RelativeDocumentMoniker": "Gesti\u00F3n de Parqueadero ParkingPro\\Program.cs",
+              "ToolTip": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\Gesti\u00F3n de Parqueadero ParkingPro\\Gesti\u00F3n de Parqueadero ParkingPro\\Program.cs",
+              "RelativeToolTip": "Gesti\u00F3n de Parqueadero ParkingPro\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T01:22:49.736Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
