@@ -1,0 +1,7 @@
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\Financiamiento AutoYa\Financiamiento AutoYa\bin\Debug\Financiamiento AutoYa.exe.config
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\Financiamiento AutoYa\Financiamiento AutoYa\bin\Debug\Financiamiento AutoYa.exe
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\Financiamiento AutoYa\Financiamiento AutoYa\bin\Debug\Financiamiento AutoYa.pdb
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\Financiamiento AutoYa\Financiamiento AutoYa\obj\Debug\Financiamiento AutoYa.csproj.AssemblyReference.cache
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\Financiamiento AutoYa\Financiamiento AutoYa\obj\Debug\Financiamiento AutoYa.csproj.CoreCompileInputs.cache
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\Financiamiento AutoYa\Financiamiento AutoYa\obj\Debug\Financiamiento AutoYa.exe
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\Financiamiento AutoYa\Financiamiento AutoYa\obj\Debug\Financiamiento AutoYa.pdb

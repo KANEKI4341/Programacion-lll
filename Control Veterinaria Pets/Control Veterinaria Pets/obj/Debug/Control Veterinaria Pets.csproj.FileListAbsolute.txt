@@ -1,0 +1,7 @@
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\Control Veterinaria Pets\Control Veterinaria Pets\bin\Debug\Control Veterinaria Pets.exe.config
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\Control Veterinaria Pets\Control Veterinaria Pets\bin\Debug\Control Veterinaria Pets.exe
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\Control Veterinaria Pets\Control Veterinaria Pets\bin\Debug\Control Veterinaria Pets.pdb
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\Control Veterinaria Pets\Control Veterinaria Pets\obj\Debug\Control Veterinaria Pets.csproj.AssemblyReference.cache
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\Control Veterinaria Pets\Control Veterinaria Pets\obj\Debug\Control Veterinaria Pets.csproj.CoreCompileInputs.cache
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\Control Veterinaria Pets\Control Veterinaria Pets\obj\Debug\Control Veterinaria Pets.exe
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\Control Veterinaria Pets\Control Veterinaria Pets\obj\Debug\Control Veterinaria Pets.pdb

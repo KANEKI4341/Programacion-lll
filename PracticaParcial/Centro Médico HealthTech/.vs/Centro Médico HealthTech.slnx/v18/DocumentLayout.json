@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\Centro M\u00E9dico HealthTech\\",
+  "WorkspaceRootPath": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\PracticaParcial\\Centro M\u00E9dico HealthTech\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E179138A-C0F0-4846-A4CF-A8849A9C1A71}|Centro M\u00E9dico HealthTech\\Centro M\u00E9dico HealthTech.csproj|c:\\users\\deivy\\documents\\github\\programacion-lll\\centro m\u00E9dico healthtech\\centro m\u00E9dico healthtech\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E179138A-C0F0-4846-A4CF-A8849A9C1A71}|Centro M\u00E9dico HealthTech\\Centro M\u00E9dico HealthTech.csproj|c:\\users\\deivy\\documents\\github\\programacion-lll\\practicaparcial\\centro m\u00E9dico healthtech\\centro m\u00E9dico healthtech\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E179138A-C0F0-4846-A4CF-A8849A9C1A71}|Centro M\u00E9dico HealthTech\\Centro M\u00E9dico HealthTech.csproj|solutionrelative:centro m\u00E9dico healthtech\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E179138A-C0F0-4846-A4CF-A8849A9C1A71}|Centro M\u00E9dico HealthTech\\Centro M\u00E9dico HealthTech.csproj|c:\\users\\deivy\\documents\\github\\programacion-lll\\centro m\u00E9dico healthtech\\centro m\u00E9dico healthtech\\modelos\\citamedica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E179138A-C0F0-4846-A4CF-A8849A9C1A71}|Centro M\u00E9dico HealthTech\\Centro M\u00E9dico HealthTech.csproj|C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\PracticaParcial\\Centro M\u00E9dico HealthTech\\centro m\u00E9dico healthtech\\modelos\\citamedica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E179138A-C0F0-4846-A4CF-A8849A9C1A71}|Centro M\u00E9dico HealthTech\\Centro M\u00E9dico HealthTech.csproj|solutionrelative:centro m\u00E9dico healthtech\\modelos\\citamedica.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E179138A-C0F0-4846-A4CF-A8849A9C1A71}|Centro M\u00E9dico HealthTech\\Centro M\u00E9dico HealthTech.csproj|c:\\users\\deivy\\documents\\github\\programacion-lll\\centro m\u00E9dico healthtech\\centro m\u00E9dico healthtech\\interfaces\\iprioritariocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E179138A-C0F0-4846-A4CF-A8849A9C1A71}|Centro M\u00E9dico HealthTech\\Centro M\u00E9dico HealthTech.csproj|C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\PracticaParcial\\Centro M\u00E9dico HealthTech\\centro m\u00E9dico healthtech\\interfaces\\iprioritariocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E179138A-C0F0-4846-A4CF-A8849A9C1A71}|Centro M\u00E9dico HealthTech\\Centro M\u00E9dico HealthTech.csproj|solutionrelative:centro m\u00E9dico healthtech\\interfaces\\iprioritariocs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E179138A-C0F0-4846-A4CF-A8849A9C1A71}|Centro M\u00E9dico HealthTech\\Centro M\u00E9dico HealthTech.csproj|c:\\users\\deivy\\documents\\github\\programacion-lll\\centro m\u00E9dico healthtech\\centro m\u00E9dico healthtech\\enums\\especialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E179138A-C0F0-4846-A4CF-A8849A9C1A71}|Centro M\u00E9dico HealthTech\\Centro M\u00E9dico HealthTech.csproj|C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\PracticaParcial\\Centro M\u00E9dico HealthTech\\centro m\u00E9dico healthtech\\enums\\especialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E179138A-C0F0-4846-A4CF-A8849A9C1A71}|Centro M\u00E9dico HealthTech\\Centro M\u00E9dico HealthTech.csproj|solutionrelative:centro m\u00E9dico healthtech\\enums\\especialidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "CitaMedica.cs",
-              "DocumentMoniker": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\Centro M\u00E9dico HealthTech\\Centro M\u00E9dico HealthTech\\Modelos\\CitaMedica.cs",
+              "DocumentMoniker": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\PracticaParcial\\Centro M\u00E9dico HealthTech\\Centro M\u00E9dico HealthTech\\Modelos\\CitaMedica.cs",
               "RelativeDocumentMoniker": "Centro M\u00E9dico HealthTech\\Modelos\\CitaMedica.cs",
-              "ToolTip": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\Centro M\u00E9dico HealthTech\\Centro M\u00E9dico HealthTech\\Modelos\\CitaMedica.cs",
+              "ToolTip": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\PracticaParcial\\Centro M\u00E9dico HealthTech\\Centro M\u00E9dico HealthTech\\Modelos\\CitaMedica.cs",
               "RelativeToolTip": "Centro M\u00E9dico HealthTech\\Modelos\\CitaMedica.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowBsAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-20T03:07:49.547Z",
               "EditorCaption": ""
@@ -45,9 +45,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "IPrioritariocs.cs",
-              "DocumentMoniker": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\Centro M\u00E9dico HealthTech\\Centro M\u00E9dico HealthTech\\Interfaces\\IPrioritariocs.cs",
+              "DocumentMoniker": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\PracticaParcial\\Centro M\u00E9dico HealthTech\\Centro M\u00E9dico HealthTech\\Interfaces\\IPrioritariocs.cs",
               "RelativeDocumentMoniker": "Centro M\u00E9dico HealthTech\\Interfaces\\IPrioritariocs.cs",
-              "ToolTip": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\Centro M\u00E9dico HealthTech\\Centro M\u00E9dico HealthTech\\Interfaces\\IPrioritariocs.cs",
+              "ToolTip": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\PracticaParcial\\Centro M\u00E9dico HealthTech\\Centro M\u00E9dico HealthTech\\Interfaces\\IPrioritariocs.cs",
               "RelativeToolTip": "Centro M\u00E9dico HealthTech\\Interfaces\\IPrioritariocs.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -58,9 +58,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Especialidad.cs",
-              "DocumentMoniker": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\Centro M\u00E9dico HealthTech\\Centro M\u00E9dico HealthTech\\Enums\\Especialidad.cs",
+              "DocumentMoniker": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\PracticaParcial\\Centro M\u00E9dico HealthTech\\Centro M\u00E9dico HealthTech\\Enums\\Especialidad.cs",
               "RelativeDocumentMoniker": "Centro M\u00E9dico HealthTech\\Enums\\Especialidad.cs",
-              "ToolTip": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\Centro M\u00E9dico HealthTech\\Centro M\u00E9dico HealthTech\\Enums\\Especialidad.cs",
+              "ToolTip": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\PracticaParcial\\Centro M\u00E9dico HealthTech\\Centro M\u00E9dico HealthTech\\Enums\\Especialidad.cs",
               "RelativeToolTip": "Centro M\u00E9dico HealthTech\\Enums\\Especialidad.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -71,11 +71,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\Centro M\u00E9dico HealthTech\\Centro M\u00E9dico HealthTech\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\PracticaParcial\\Centro M\u00E9dico HealthTech\\Centro M\u00E9dico HealthTech\\Program.cs",
               "RelativeDocumentMoniker": "Centro M\u00E9dico HealthTech\\Program.cs",
-              "ToolTip": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\Centro M\u00E9dico HealthTech\\Centro M\u00E9dico HealthTech\\Program.cs",
+              "ToolTip": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\PracticaParcial\\Centro M\u00E9dico HealthTech\\Centro M\u00E9dico HealthTech\\Program.cs",
               "RelativeToolTip": "Centro M\u00E9dico HealthTech\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAALMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAALMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-20T02:57:38.333Z",
               "EditorCaption": ""

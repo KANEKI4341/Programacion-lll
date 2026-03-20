@@ -1,0 +1,9 @@
+[20/03/2026 7:26:02 a. m.] - 234: 5: 5 
+[20/03/2026 7:28:52 a. m.] - Valor: 500, Interés: 5%, Cuotas: 2, Total: 504,166666666667
+[20/03/2026 7:30:19 a. m.] - Valor: 600, Interés: 6%, Cuotas: 20, Total: 660
+[20/03/2026 7:31:02 a. m.] - Valor: 700, Interés: 7%, Cuotas: 36, Total: 749
+[20/03/2026 7:39:27 a. m.] - Valor: 7000, Interés: 45%, Cuotas: 8, Total: 10150
+[20/03/2026 7:40:06 a. m.] - Valor: 6000, Interés: 36%, Cuotas: 8, Total: 8160
+[20/03/2026 7:40:55 a. m.] - Valor: 5000, Interés: 50%, Cuotas: 2, Total: 7500
+[20/03/2026 7:41:49 a. m.] - Valor: 6000, Interés: 5%, Cuotas: 4, Total: 6300
+[20/03/2026 7:56:20 a. m.] - Valor: 1000, Interés: 5%, Cuotas: 10, Total: 1050

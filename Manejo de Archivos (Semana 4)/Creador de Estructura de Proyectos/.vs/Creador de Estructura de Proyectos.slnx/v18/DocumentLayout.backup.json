@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\Creador de Estructura de Proyectos\\",
+  "WorkspaceRootPath": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\Manejo de Archivos (Semana 4)\\Creador de Estructura de Proyectos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{032C420D-7848-4045-87F0-704A7B7D34D5}|Creador de Estructura de Proyectos\\Creador de Estructura de Proyectos.csproj|c:\\users\\deivy\\documents\\github\\programacion-lll\\creador de estructura de proyectos\\creador de estructura de proyectos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{032C420D-7848-4045-87F0-704A7B7D34D5}|Creador de Estructura de Proyectos\\Creador de Estructura de Proyectos.csproj|c:\\users\\deivy\\documents\\github\\programacion-lll\\manejo de archivos (semana 4)\\creador de estructura de proyectos\\creador de estructura de proyectos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{032C420D-7848-4045-87F0-704A7B7D34D5}|Creador de Estructura de Proyectos\\Creador de Estructura de Proyectos.csproj|solutionrelative:creador de estructura de proyectos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\Creador de Estructura de Proyectos\\Creador de Estructura de Proyectos\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\Manejo de Archivos (Semana 4)\\Creador de Estructura de Proyectos\\Creador de Estructura de Proyectos\\Program.cs",
               "RelativeDocumentMoniker": "Creador de Estructura de Proyectos\\Program.cs",
-              "ToolTip": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\Creador de Estructura de Proyectos\\Creador de Estructura de Proyectos\\Program.cs",
+              "ToolTip": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\Manejo de Archivos (Semana 4)\\Creador de Estructura de Proyectos\\Creador de Estructura de Proyectos\\Program.cs",
               "RelativeToolTip": "Creador de Estructura de Proyectos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-19T21:48:12.167Z",
               "EditorCaption": ""
