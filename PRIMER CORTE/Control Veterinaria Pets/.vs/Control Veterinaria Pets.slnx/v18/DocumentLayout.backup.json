@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\Control Veterinaria Pets\\",
+  "WorkspaceRootPath": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\PRIMER CORTE\\Control Veterinaria Pets\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{979D27FD-4215-4A08-8C79-83DA25FFECE8}|Control Veterinaria Pets\\Control Veterinaria Pets.csproj|c:\\users\\deivy\\documents\\github\\programacion-lll\\control veterinaria pets\\control veterinaria pets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{979D27FD-4215-4A08-8C79-83DA25FFECE8}|Control Veterinaria Pets\\Control Veterinaria Pets.csproj|c:\\users\\deivy\\documents\\github\\programacion-lll\\primer corte\\control veterinaria pets\\control veterinaria pets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{979D27FD-4215-4A08-8C79-83DA25FFECE8}|Control Veterinaria Pets\\Control Veterinaria Pets.csproj|solutionrelative:control veterinaria pets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{979D27FD-4215-4A08-8C79-83DA25FFECE8}|Control Veterinaria Pets\\Control Veterinaria Pets.csproj|c:\\users\\deivy\\documents\\github\\programacion-lll\\control veterinaria pets\\control veterinaria pets\\modelo\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{979D27FD-4215-4A08-8C79-83DA25FFECE8}|Control Veterinaria Pets\\Control Veterinaria Pets.csproj|C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\PRIMER CORTE\\Control Veterinaria Pets\\control veterinaria pets\\modelo\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{979D27FD-4215-4A08-8C79-83DA25FFECE8}|Control Veterinaria Pets\\Control Veterinaria Pets.csproj|solutionrelative:control veterinaria pets\\modelo\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{979D27FD-4215-4A08-8C79-83DA25FFECE8}|Control Veterinaria Pets\\Control Veterinaria Pets.csproj|c:\\users\\deivy\\documents\\github\\programacion-lll\\control veterinaria pets\\control veterinaria pets\\interface\\igestionable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{979D27FD-4215-4A08-8C79-83DA25FFECE8}|Control Veterinaria Pets\\Control Veterinaria Pets.csproj|C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\PRIMER CORTE\\Control Veterinaria Pets\\control veterinaria pets\\interface\\igestionable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{979D27FD-4215-4A08-8C79-83DA25FFECE8}|Control Veterinaria Pets\\Control Veterinaria Pets.csproj|solutionrelative:control veterinaria pets\\interface\\igestionable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{979D27FD-4215-4A08-8C79-83DA25FFECE8}|Control Veterinaria Pets\\Control Veterinaria Pets.csproj|c:\\users\\deivy\\documents\\github\\programacion-lll\\control veterinaria pets\\control veterinaria pets\\enum\\especie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{979D27FD-4215-4A08-8C79-83DA25FFECE8}|Control Veterinaria Pets\\Control Veterinaria Pets.csproj|C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\PRIMER CORTE\\Control Veterinaria Pets\\control veterinaria pets\\enum\\especie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{979D27FD-4215-4A08-8C79-83DA25FFECE8}|Control Veterinaria Pets\\Control Veterinaria Pets.csproj|solutionrelative:control veterinaria pets\\enum\\especie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,50 +32,47 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Paciente.cs",
-              "DocumentMoniker": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\Control Veterinaria Pets\\Control Veterinaria Pets\\Modelo\\Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\PRIMER CORTE\\Control Veterinaria Pets\\Control Veterinaria Pets\\Modelo\\Paciente.cs",
               "RelativeDocumentMoniker": "Control Veterinaria Pets\\Modelo\\Paciente.cs",
-              "ToolTip": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\Control Veterinaria Pets\\Control Veterinaria Pets\\Modelo\\Paciente.cs",
+              "ToolTip": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\PRIMER CORTE\\Control Veterinaria Pets\\Control Veterinaria Pets\\Modelo\\Paciente.cs",
               "RelativeToolTip": "Control Veterinaria Pets\\Modelo\\Paciente.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-20T11:19:18.292Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-20T11:19:18.292Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "IGestionable.cs",
-              "DocumentMoniker": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\Control Veterinaria Pets\\Control Veterinaria Pets\\Interface\\IGestionable.cs",
+              "DocumentMoniker": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\PRIMER CORTE\\Control Veterinaria Pets\\Control Veterinaria Pets\\Interface\\IGestionable.cs",
               "RelativeDocumentMoniker": "Control Veterinaria Pets\\Interface\\IGestionable.cs",
-              "ToolTip": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\Control Veterinaria Pets\\Control Veterinaria Pets\\Interface\\IGestionable.cs",
+              "ToolTip": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\PRIMER CORTE\\Control Veterinaria Pets\\Control Veterinaria Pets\\Interface\\IGestionable.cs",
               "RelativeToolTip": "Control Veterinaria Pets\\Interface\\IGestionable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-20T11:18:12.386Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-20T11:18:12.386Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Especie.cs",
-              "DocumentMoniker": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\Control Veterinaria Pets\\Control Veterinaria Pets\\Enum\\Especie.cs",
+              "DocumentMoniker": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\PRIMER CORTE\\Control Veterinaria Pets\\Control Veterinaria Pets\\Enum\\Especie.cs",
               "RelativeDocumentMoniker": "Control Veterinaria Pets\\Enum\\Especie.cs",
-              "ToolTip": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\Control Veterinaria Pets\\Control Veterinaria Pets\\Enum\\Especie.cs",
+              "ToolTip": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\PRIMER CORTE\\Control Veterinaria Pets\\Control Veterinaria Pets\\Enum\\Especie.cs",
               "RelativeToolTip": "Control Veterinaria Pets\\Enum\\Especie.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-20T11:12:59.852Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-20T11:12:59.852Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\Control Veterinaria Pets\\Control Veterinaria Pets\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\PRIMER CORTE\\Control Veterinaria Pets\\Control Veterinaria Pets\\Program.cs",
               "RelativeDocumentMoniker": "Control Veterinaria Pets\\Program.cs",
-              "ToolTip": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\Control Veterinaria Pets\\Control Veterinaria Pets\\Program.cs",
+              "ToolTip": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\PRIMER CORTE\\Control Veterinaria Pets\\Control Veterinaria Pets\\Program.cs",
               "RelativeToolTip": "Control Veterinaria Pets\\Program.cs",
-              "ViewState": "AgIAAJQAAABAUKVmD44wwA4AAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAKQAAAAAAAAAAAAswA4AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-20T11:08:47.667Z",
               "EditorCaption": ""
