@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Teclado_de_Calculadora
+namespace Catálogo_de_Producto
 {
     public partial class Form1 : Form
     {
@@ -17,17 +17,12 @@ namespace Teclado_de_Calculadora
             InitializeComponent();
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void label2_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void button10_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void button13_Click(object sender, EventArgs e)
+        private void button1_Click(object sender, EventArgs e)
         {
 
         }
