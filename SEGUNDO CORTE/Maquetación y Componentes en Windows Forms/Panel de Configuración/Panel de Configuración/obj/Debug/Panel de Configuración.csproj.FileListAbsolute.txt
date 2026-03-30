@@ -1,0 +1,10 @@
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\Maquetación y Componentes en Windows Forms\Panel de Configuración\Panel de Configuración\bin\Debug\Panel de Configuración.exe.config
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\Maquetación y Componentes en Windows Forms\Panel de Configuración\Panel de Configuración\bin\Debug\Panel de Configuración.exe
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\Maquetación y Componentes en Windows Forms\Panel de Configuración\Panel de Configuración\bin\Debug\Panel de Configuración.pdb
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\Maquetación y Componentes en Windows Forms\Panel de Configuración\Panel de Configuración\obj\Debug\Panel de Configuración.csproj.AssemblyReference.cache
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\Maquetación y Componentes en Windows Forms\Panel de Configuración\Panel de Configuración\obj\Debug\Panel_de_Configuración.Form1.resources
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\Maquetación y Componentes en Windows Forms\Panel de Configuración\Panel de Configuración\obj\Debug\Panel_de_Configuración.Properties.Resources.resources
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\Maquetación y Componentes en Windows Forms\Panel de Configuración\Panel de Configuración\obj\Debug\Panel de Configuración.csproj.GenerateResource.cache
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\Maquetación y Componentes en Windows Forms\Panel de Configuración\Panel de Configuración\obj\Debug\Panel de Configuración.csproj.CoreCompileInputs.cache
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\Maquetación y Componentes en Windows Forms\Panel de Configuración\Panel de Configuración\obj\Debug\Panel de Configuración.exe
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\Maquetación y Componentes en Windows Forms\Panel de Configuración\Panel de Configuración\obj\Debug\Panel de Configuración.pdb
