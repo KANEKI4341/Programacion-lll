@@ -1,0 +1,10 @@
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\WinForms, Validación y Lógica\Sistema de Reserva de Hotel\Sistema de Reserva de Hotel\bin\Debug\Sistema de Reserva de Hotel.exe.config
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\WinForms, Validación y Lógica\Sistema de Reserva de Hotel\Sistema de Reserva de Hotel\bin\Debug\Sistema de Reserva de Hotel.exe
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\WinForms, Validación y Lógica\Sistema de Reserva de Hotel\Sistema de Reserva de Hotel\bin\Debug\Sistema de Reserva de Hotel.pdb
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\WinForms, Validación y Lógica\Sistema de Reserva de Hotel\Sistema de Reserva de Hotel\obj\Debug\Sistema de Reserva de Hotel.csproj.AssemblyReference.cache
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\WinForms, Validación y Lógica\Sistema de Reserva de Hotel\Sistema de Reserva de Hotel\obj\Debug\Sistema_de_Reserva_de_Hotel.Form1.resources
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\WinForms, Validación y Lógica\Sistema de Reserva de Hotel\Sistema de Reserva de Hotel\obj\Debug\Sistema_de_Reserva_de_Hotel.Properties.Resources.resources
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\WinForms, Validación y Lógica\Sistema de Reserva de Hotel\Sistema de Reserva de Hotel\obj\Debug\Sistema de Reserva de Hotel.csproj.GenerateResource.cache
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\WinForms, Validación y Lógica\Sistema de Reserva de Hotel\Sistema de Reserva de Hotel\obj\Debug\Sistema de Reserva de Hotel.csproj.CoreCompileInputs.cache
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\WinForms, Validación y Lógica\Sistema de Reserva de Hotel\Sistema de Reserva de Hotel\obj\Debug\Sistema de Reserva de Hotel.exe
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\WinForms, Validación y Lógica\Sistema de Reserva de Hotel\Sistema de Reserva de Hotel\obj\Debug\Sistema de Reserva de Hotel.pdb
