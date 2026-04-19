@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\SEGUNDO CORTE\\Validacion y Logica CSV\\Gesti\u00F3n de Inventario (CSV)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD72DEE-D828-4D44-96C4-34678F225B77}|Gesti\u00F3n de Inventario (CSV)\\Gesti\u00F3n de Inventario (CSV).csproj|c:\\users\\deivy\\documents\\github\\programacion-lll\\segundo corte\\validacion y logica csv\\gesti\u00F3n de inventario (csv)\\gesti\u00F3n de inventario (csv)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5DD72DEE-D828-4D44-96C4-34678F225B77}|Gesti\u00F3n de Inventario (CSV)\\Gesti\u00F3n de Inventario (CSV).csproj|solutionrelative:gesti\u00F3n de inventario (csv)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD72DEE-D828-4D44-96C4-34678F225B77}|Gesti\u00F3n de Inventario (CSV)\\Gesti\u00F3n de Inventario (CSV).csproj|C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\SEGUNDO CORTE\\Validacion y Logica CSV\\Gesti\u00F3n de Inventario (CSV)\\gesti\u00F3n de inventario (csv)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD72DEE-D828-4D44-96C4-34678F225B77}|Gesti\u00F3n de Inventario (CSV)\\Gesti\u00F3n de Inventario (CSV).csproj|solutionrelative:gesti\u00F3n de inventario (csv)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\SEGUNDO CORTE\\Validacion y Logica CSV\\Gesti\u00F3n de Inventario (CSV)\\Gesti\u00F3n de Inventario (CSV)\\Form1.cs",
+              "RelativeDocumentMoniker": "Gesti\u00F3n de Inventario (CSV)\\Form1.cs",
+              "ToolTip": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\SEGUNDO CORTE\\Validacion y Logica CSV\\Gesti\u00F3n de Inventario (CSV)\\Gesti\u00F3n de Inventario (CSV)\\Form1.cs",
+              "RelativeToolTip": "Gesti\u00F3n de Inventario (CSV)\\Form1.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAowG0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T00:58:58.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\SEGUNDO CORTE\\Validacion y Logica CSV\\Gesti\u00F3n de Inventario (CSV)\\Gesti\u00F3n de Inventario (CSV)\\Form1.cs",
+              "RelativeDocumentMoniker": "Gesti\u00F3n de Inventario (CSV)\\Form1.cs",
+              "ToolTip": "C:\\Users\\DEIVY\\Documents\\GitHub\\Programacion-lll\\SEGUNDO CORTE\\Validacion y Logica CSV\\Gesti\u00F3n de Inventario (CSV)\\Gesti\u00F3n de Inventario (CSV)\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Gesti\u00F3n de Inventario (CSV)\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T03:26:51.725Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

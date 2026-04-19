@@ -1,0 +1,10 @@
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\Validacion y Logica CSV\Control de Ventas Diarias\Control de Ventas Diarias\obj\Debug\Control de Ventas Diarias.csproj.AssemblyReference.cache
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\Validacion y Logica CSV\Control de Ventas Diarias\Control de Ventas Diarias\obj\Debug\Control_de_Ventas_Diarias.Form1.resources
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\Validacion y Logica CSV\Control de Ventas Diarias\Control de Ventas Diarias\obj\Debug\Control_de_Ventas_Diarias.Properties.Resources.resources
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\Validacion y Logica CSV\Control de Ventas Diarias\Control de Ventas Diarias\obj\Debug\Control de Ventas Diarias.csproj.GenerateResource.cache
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\Validacion y Logica CSV\Control de Ventas Diarias\Control de Ventas Diarias\obj\Debug\Control de Ventas Diarias.csproj.CoreCompileInputs.cache
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\Validacion y Logica CSV\Control de Ventas Diarias\Control de Ventas Diarias\bin\Debug\Control de Ventas Diarias.exe.config
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\Validacion y Logica CSV\Control de Ventas Diarias\Control de Ventas Diarias\bin\Debug\Control de Ventas Diarias.exe
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\Validacion y Logica CSV\Control de Ventas Diarias\Control de Ventas Diarias\bin\Debug\Control de Ventas Diarias.pdb
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\Validacion y Logica CSV\Control de Ventas Diarias\Control de Ventas Diarias\obj\Debug\Control de Ventas Diarias.exe
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\Validacion y Logica CSV\Control de Ventas Diarias\Control de Ventas Diarias\obj\Debug\Control de Ventas Diarias.pdb

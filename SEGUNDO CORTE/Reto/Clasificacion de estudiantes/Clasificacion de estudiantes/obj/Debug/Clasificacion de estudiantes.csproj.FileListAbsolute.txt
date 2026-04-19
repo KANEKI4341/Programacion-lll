@@ -1,0 +1,10 @@
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\Reto\Clasificacion de estudiantes\Clasificacion de estudiantes\bin\Debug\Clasificacion de estudiantes.exe.config
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\Reto\Clasificacion de estudiantes\Clasificacion de estudiantes\bin\Debug\Clasificacion de estudiantes.exe
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\Reto\Clasificacion de estudiantes\Clasificacion de estudiantes\bin\Debug\Clasificacion de estudiantes.pdb
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\Reto\Clasificacion de estudiantes\Clasificacion de estudiantes\obj\Debug\Clasificacion de estudiantes.csproj.AssemblyReference.cache
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\Reto\Clasificacion de estudiantes\Clasificacion de estudiantes\obj\Debug\Clasificacion_de_estudiantes.Form1.resources
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\Reto\Clasificacion de estudiantes\Clasificacion de estudiantes\obj\Debug\Clasificacion_de_estudiantes.Properties.Resources.resources
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\Reto\Clasificacion de estudiantes\Clasificacion de estudiantes\obj\Debug\Clasificacion de estudiantes.csproj.GenerateResource.cache
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\Reto\Clasificacion de estudiantes\Clasificacion de estudiantes\obj\Debug\Clasificacion de estudiantes.csproj.CoreCompileInputs.cache
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\Reto\Clasificacion de estudiantes\Clasificacion de estudiantes\obj\Debug\Clasificacion de estudiantes.exe
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\Reto\Clasificacion de estudiantes\Clasificacion de estudiantes\obj\Debug\Clasificacion de estudiantes.pdb

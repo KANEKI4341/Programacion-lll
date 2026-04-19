@@ -1,0 +1,10 @@
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\Validacion y Logica CSV\Gestión de Inventario (CSV)\Gestión de Inventario (CSV)\obj\Debug\Gestión de Inventario (CSV).csproj.AssemblyReference.cache
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\Validacion y Logica CSV\Gestión de Inventario (CSV)\Gestión de Inventario (CSV)\obj\Debug\Gestión_de_Inventario__CSV_.Form1.resources
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\Validacion y Logica CSV\Gestión de Inventario (CSV)\Gestión de Inventario (CSV)\obj\Debug\Gestión_de_Inventario__CSV_.Properties.Resources.resources
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\Validacion y Logica CSV\Gestión de Inventario (CSV)\Gestión de Inventario (CSV)\obj\Debug\Gestión de Inventario (CSV).csproj.GenerateResource.cache
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\Validacion y Logica CSV\Gestión de Inventario (CSV)\Gestión de Inventario (CSV)\obj\Debug\Gestión de Inventario (CSV).csproj.CoreCompileInputs.cache
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\Validacion y Logica CSV\Gestión de Inventario (CSV)\Gestión de Inventario (CSV)\bin\Debug\Gestión de Inventario (CSV).exe.config
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\Validacion y Logica CSV\Gestión de Inventario (CSV)\Gestión de Inventario (CSV)\bin\Debug\Gestión de Inventario (CSV).exe
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\Validacion y Logica CSV\Gestión de Inventario (CSV)\Gestión de Inventario (CSV)\bin\Debug\Gestión de Inventario (CSV).pdb
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\Validacion y Logica CSV\Gestión de Inventario (CSV)\Gestión de Inventario (CSV)\obj\Debug\Gestión de Inventario (CSV).exe
+C:\Users\DEIVY\Documents\GitHub\Programacion-lll\SEGUNDO CORTE\Validacion y Logica CSV\Gestión de Inventario (CSV)\Gestión de Inventario (CSV)\obj\Debug\Gestión de Inventario (CSV).pdb
